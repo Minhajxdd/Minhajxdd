@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @Minhajxdd
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhajxdd)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajxdd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Minhajxdd/Minhajxdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <div align="center">
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+</div>
+<h3 id="hi-there">Hi there 👋🎉</h3>
+<p>My name is <strong>Mohammed Minhaj</strong> and welcome to my profile.</p>
+<p>
+A smart programmer with deep passion for coding and computers, constantly exploring, learning, and building innovative tech solutions with dedication. Driven by curiosity and creativity, they excel at problem-solving, embrace challenges, and strive to create efficient, impactful software solutions.
+</p>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+<h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
+<p><a href="https://github.com/Kingsky1t/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kingsky1t&amp;count_private=true&amp;show_icons=true&amp;theme=dark" alt="Shaunak's GitHub stats"></a></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsky1t&amp;show_icons=true&amp;theme=dark" alt="Top Languages Used"></p>
+</div>
