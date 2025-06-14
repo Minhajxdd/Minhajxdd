@@ -2,7 +2,7 @@
 <div id="header">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </div>
-<h3 id="hi-there">Hi there 👋🎉</h3>
+<h3 id="hi-there">Hi there 👋🎉 </h3>
 <p>My name is <strong>Mohammed Minhaj</strong> and welcome to my profile.</p>
 <p>
 A smart programmer with deep passion for coding and computers, constantly exploring, learning, and building innovative tech solutions with dedication. Driven by curiosity and creativity, they excel at problem-solving, embrace challenges, and strive to create efficient, impactful software solutions.
